@@ -1,7 +1,7 @@
 <?php
-const HOST = 'localhost';
-const USERNAME = 'root';
-const PASSWORD = '';
+const HOST = 'mojalista-server.mysql.database.azure.com';
+const USERNAME = 'twoj-smpibwesvr@mojalista-server';
+const PASSWORD = 'Nowehaslo123!@';
 const DBNAME = 'todo';
 $dbcon = new mysqli(HOST, USERNAME, PASSWORD, DBNAME);
 
