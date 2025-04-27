@@ -9,6 +9,7 @@ require_once "header.php";
     <div class="col-8 m-auto">
 
     <h2 class="display-4 text-center" >My To Do List</h2>
+    <h2 class="display-4 text-center" >Dodana zmiana</h2>
       <form class="mt-4" action="index_valid.php" method="post">
         <div class="form-group">
           <input class= "form-control form-control-lg" type="text" name="textfield" placeholder="Enter your task"  >
